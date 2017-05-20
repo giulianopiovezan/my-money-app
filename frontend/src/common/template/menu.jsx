@@ -7,7 +7,7 @@ export default props => (
         <MenuItem path='/' label='Dashboard' icon='dashboard' />
         <MenuTree label='Cadastro' icon='edit'>
             <MenuItem path='billingCycles'
-                label='Ciclos de Pagamento' icon='usd' />
+                label='Ciclos de Pagameno' icon='usd' />
         </MenuTree>
     </ul>
 )
